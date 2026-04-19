@@ -75,7 +75,6 @@ main{
     flex: 1;
     flex-wrap: wrap;
     border-bottom: solid black 1px;
-    background-color: #CBE0D3;
 }
 
 .project-section{
@@ -132,8 +131,7 @@ main{
     flex: 1;
     padding: 0px 20px 0px 20px;
     display: flex;
-    flex-direction: column;
-    background-color: #CBE0D3;
+    flex-direction: column;;
 }
 .review-container{
     flex: 1;
@@ -160,7 +158,6 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #CBE0D3;
 }
 
 
